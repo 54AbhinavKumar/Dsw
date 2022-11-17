@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1080816125350",
+    "firebase_url": "https://dswdataa-default-rtdb.firebaseio.com",
+    "project_id": "dswdataa",
+    "storage_bucket": "dswdataa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080816125350:android:5fa0cc34b6780c5c14fb67",
+        "android_client_info": {
+          "package_name": "com.example.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080816125350-f4u2eu1g3citi8t7io7f5udef8bp3caq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4BJ_dTqSl0A8oSz0DdQJqKaHjCruX0hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080816125350-f4u2eu1g3citi8t7io7f5udef8bp3caq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
